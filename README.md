@@ -12,8 +12,8 @@
 
 - 📞Связаться со мной можно: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/Pallerm01)  
   
-
-<br/>  ----
+----
+<br/>  
 
 
 ## My Skill Set  
@@ -28,8 +28,8 @@
 
 
 
-<br/>  ----
-
+<br/>  
+----
 
 ## Connect with me  
 <div align="center">
