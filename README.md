@@ -1,5 +1,5 @@
 ### <div align="center">Я Гоша, начинающий разработчик на Python с гениальными идеями💎</div>  
-
+----
 ### Обо мне   
 Пройдя курс программирования на Python мне открылись возможности создание собственых проектов для упрощения своей жизни.    
   
@@ -13,7 +13,7 @@
 - 📞Связаться со мной можно: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/Pallerm01)  
   
 
-<br/>  
+<br/>  ----
 
 
 ## My Skill Set  
@@ -28,7 +28,7 @@
 
 
 
-<br/>  
+<br/>  ----
 
 
 ## Connect with me  
@@ -42,7 +42,7 @@
 </div>  
   
 
-<br/>  
+<br/>  ----
 
 
 ## Github Stats  
@@ -51,21 +51,10 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
 <br/>  
 
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
